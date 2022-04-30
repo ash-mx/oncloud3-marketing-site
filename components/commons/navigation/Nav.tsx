@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import styled from "styled-components";
@@ -6,6 +6,7 @@ import styled from "styled-components";
 // Components
 import { Container } from "../../../styles/layouts/Container";
 import Button from "../forms/Button";
+import MobileNav from "./MobileNav";
 
 // Custom Hooks
 import { useResize } from "../../../hooks/useResize";
@@ -14,12 +15,18 @@ import { useResize } from "../../../hooks/useResize";
 import { device } from "../../../styles/layouts/devices";
 
 const Nav = () => {
+  const [isActive, setIsActive] = useState(false);
   const { isDesktop } = useResize();
+
+  const handleMobileNav = () => {
+    setIsActive(!isActive);
+  };
 
   return (
     <Container>
       <StyledNav>
         <Container>
+          <MobileNav isActive={isActive} />
           <StyledLogo>
             <Link href="/">
               <a>
@@ -77,7 +84,7 @@ const Nav = () => {
           </StyledLinks>
           <StyledCTAs>
             <Button
-              url="/login"
+              url="#"
               size="SM"
               btnType="stealth"
               display="default"
@@ -86,7 +93,7 @@ const Nav = () => {
               Log in
             </Button>
             <Button
-              url="/signup"
+              url="#"
               size={isDesktop ? "SM" : "XS"}
               btnType="gradientOne"
               display="default"
@@ -98,7 +105,7 @@ const Nav = () => {
             <HamburgerContainer>
               <div></div>
               <div>
-                <HamburgerButton>
+                <HamburgerButton onClick={handleMobileNav}>
                   <Image
                     src="/images/icons/hamburger.svg"
                     height={24}
@@ -134,7 +141,7 @@ const StyledNav = styled.nav`
 
   /* UI */
   background-color: rgb(3, 4, 13, 0.7);
-  backdrop-filter: blur(0.75em);
+  backdrop-filter: blur(0.75rem);
 
   /* Misc */
   transition: all 0.25s ease;

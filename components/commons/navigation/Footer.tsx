@@ -118,7 +118,7 @@ const Footer = () => {
             </div>
             <div>
               <BodyText bodySize="four" bodyColor="white">
-                <Link href="/privacy">
+                <Link href="#">
                   <a>Privacy policy</a>
                 </Link>
               </BodyText>
@@ -126,7 +126,7 @@ const Footer = () => {
                 •
               </BodyText>
               <BodyText bodySize="four" bodyColor="white">
-                <Link href="terms">
+                <Link href="#">
                   <a>Terms of service</a>
                 </Link>
               </BodyText>
