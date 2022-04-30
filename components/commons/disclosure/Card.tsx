@@ -17,7 +17,7 @@ const Card = ({ title, body, bg, themeColor, imageSrc, url }: Props) => {
       <StyledCardImage>
         <div>
           <Image
-            src="/images/components/card/cover.png"
+            src={`/images/components/card/cover.png`}
             alt="Cover"
             height={64}
             width={64}
