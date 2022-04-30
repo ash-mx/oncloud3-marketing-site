@@ -1,0 +1,58 @@
+import { v4 as uuidv4 } from "uuid";
+
+export const solutionsCards = [
+  {
+    id: uuidv4(),
+    title: "Membership NFTs & eCommerce Site",
+    body: "Create membership NFTs that grant people access to your communities.",
+    bg: true,
+    imageSrc: "NFT-Store",
+    themeColor: "--gradient-three",
+    url: "#",
+  },
+  {
+    id: uuidv4(),
+    title: "Public Marketplaces",
+    body: "Build your own marketplaces to let users buy and sell digital assets.",
+    bg: true,
+    imageSrc: "Marketplace",
+    themeColor: "--gradient-three",
+    url: "#",
+  },
+  {
+    id: uuidv4(),
+    title: "DAOs",
+    body: "Start your own fully featured DAO with its own voting system.",
+    bg: true,
+    imageSrc: "DAO",
+    themeColor: "--gradient-three",
+    url: "#",
+  },
+  {
+    id: uuidv4(),
+    title: "Multi-Chain Wallets",
+    body: "Create membership NFTs that grant people access to your communities.",
+    bg: true,
+    imageSrc: "Chain-Wallet",
+    themeColor: "--gradient-three",
+    url: "#",
+  },
+  {
+    id: uuidv4(),
+    title: "DeFi Dashboard",
+    body: "Build your own marketplaces to let users buy and sell digital assets.",
+    bg: true,
+    imageSrc: "DeFi",
+    themeColor: "--gradient-three",
+    url: "#",
+  },
+  {
+    id: uuidv4(),
+    title: "Blockchain Games",
+    body: "Easily create games with digital economies, collectibles, and more.",
+    bg: true,
+    imageSrc: "Games",
+    themeColor: "--gradient-three",
+    url: "#",
+  },
+];

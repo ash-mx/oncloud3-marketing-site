@@ -1,0 +1,30 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_16_1530)">
+<g opacity="0.25" filter="url(#filter0_f_16_1530)">
+<circle cx="32" cy="32" r="12" fill="#76FF9C"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.6 21.25L31.5661 21.25L31.566 21.25C29.9146 21.25 28.6292 21.25 27.5981 21.3342C26.5512 21.4198 25.7006 21.5959 24.9356 21.9857C23.6655 22.6329 22.6328 23.6655 21.9857 24.9356C21.5959 25.7007 21.4198 26.5512 21.3342 27.5981C21.25 28.6292 21.25 29.9146 21.25 31.5661L21.25 31.5661L21.25 31.6L21.25 32.4L21.25 32.4339L21.25 32.434C21.25 34.0854 21.25 35.3708 21.3342 36.4019C21.4198 37.4488 21.5959 38.2994 21.9857 39.0644C22.6328 40.3345 23.6655 41.3672 24.9356 42.0143C25.7006 42.4041 26.5512 42.5802 27.5981 42.6658C28.6292 42.75 29.9145 42.75 31.5659 42.75L31.5659 42.75L31.566 42.75L31.566 42.75L31.6 42.75L32.4 42.75L32.434 42.75L32.434 42.75L32.4341 42.75L32.4341 42.75C34.0855 42.75 35.3708 42.75 36.4019 42.6658C37.4488 42.5802 38.2993 42.4041 39.0644 42.0143C40.3345 41.3672 41.3671 40.3345 42.0143 39.0644C42.4041 38.2994 42.5802 37.4488 42.6658 36.4019C42.75 35.3708 42.75 34.0855 42.75 32.4341L42.75 32.4341L42.75 32.434L42.75 32.434L42.75 32.4L42.75 31.6L42.75 31.566L42.75 31.566L42.75 31.5659L42.75 31.5659C42.75 29.9145 42.75 28.6292 42.6658 27.5981C42.5802 26.5512 42.4041 25.7007 42.0143 24.9356C41.3671 23.6655 40.3345 22.6329 39.0644 21.9857C38.2993 21.5959 37.4488 21.4198 36.4019 21.3342C35.3708 21.25 34.0854 21.25 32.4339 21.25L32.4339 21.25L32.4 21.25L31.6 21.25ZM26.4697 29.4697C26.7626 29.1768 27.2374 29.1768 27.5303 29.4697L30.5304 32.4697C30.671 32.6104 30.7501 32.8012 30.7501 33.0001C30.7501 33.199 30.671 33.3897 30.5304 33.5304L27.5303 36.5305C27.2374 36.8234 26.7625 36.8233 26.4696 36.5305C26.1767 36.2376 26.1767 35.7627 26.4696 35.4698L28.9394 33.0001L26.4697 30.5303C26.1768 30.2374 26.1768 29.7626 26.4697 29.4697ZM33 35.25C32.5858 35.25 32.25 35.5858 32.25 36C32.25 36.4142 32.5858 36.75 33 36.75L37 36.75C37.4142 36.75 37.75 36.4142 37.75 36C37.75 35.5858 37.4142 35.25 37 35.25L33 35.25Z" fill="url(#paint0_radial_16_1530)"/>
+<g opacity="0.3" filter="url(#filter1_f_16_1530)">
+<ellipse cx="32" cy="66" rx="16" ry="8" fill="#76FF9C"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_16_1530" x="-4" y="-4" width="72" height="72" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="12" result="effect1_foregroundBlur_16_1530"/>
+</filter>
+<filter id="filter1_f_16_1530" x="0" y="42" width="64" height="48" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="8" result="effect1_foregroundBlur_16_1530"/>
+</filter>
+<radialGradient id="paint0_radial_16_1530" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(32 21.25) rotate(90) scale(21.4999 21.5001)">
+<stop stop-color="#76FF9C"/>
+<stop offset="1" stop-color="#4ED774"/>
+</radialGradient>
+<clipPath id="clip0_16_1530">
+<path d="M0 8C0 3.58172 3.58172 0 8 0H56C60.4183 0 64 3.58172 64 8V56C64 60.4183 60.4183 64 56 64H8C3.58172 64 0 60.4183 0 56V8Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

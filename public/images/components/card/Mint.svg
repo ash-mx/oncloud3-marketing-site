@@ -1,0 +1,30 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_13_1537)">
+<g opacity="0.25" filter="url(#filter0_f_13_1537)">
+<circle cx="32" cy="32" r="12" fill="#FF6676"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.7274 21.7835C32.4972 21.7203 32.2314 21.698 31.9998 21.698C31.7681 21.698 31.5023 21.7204 31.2721 21.7835C30.7307 21.9321 30.3949 22.1982 29.9821 22.5253L29.9336 22.5637C28.7351 23.5123 27.0774 25.0049 25.714 26.9103C24.3518 28.8143 23.25 31.1782 23.25 33.8517C23.25 36.7665 24.3301 39.0101 25.9966 40.5188C27.6503 42.016 29.8364 42.7499 32 42.7499C34.1636 42.7499 36.3496 42.016 38.0034 40.5188C39.6699 39.0101 40.75 36.7665 40.75 33.8517C40.75 31.1781 39.6481 28.8143 38.2858 26.9103C36.9224 25.0048 35.2646 23.5122 34.066 22.5637L34.0175 22.5253C33.6047 22.1981 33.2689 21.932 32.7274 21.7835Z" fill="url(#paint0_radial_13_1537)"/>
+<g opacity="0.3" filter="url(#filter1_f_13_1537)">
+<ellipse cx="32" cy="66" rx="16" ry="8" fill="#FF6676"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_13_1537" x="-4" y="-4" width="72" height="72" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="12" result="effect1_foregroundBlur_13_1537"/>
+</filter>
+<filter id="filter1_f_13_1537" x="0" y="42" width="64" height="48" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="8" result="effect1_foregroundBlur_13_1537"/>
+</filter>
+<radialGradient id="paint0_radial_13_1537" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(32 21.698) rotate(90) scale(21.0519 17.5)">
+<stop stop-color="#FF7070"/>
+<stop offset="1" stop-color="#FF4778"/>
+</radialGradient>
+<clipPath id="clip0_13_1537">
+<path d="M0 8C0 3.58172 3.58172 0 8 0H56C60.4183 0 64 3.58172 64 8V56C64 60.4183 60.4183 64 56 64H8C3.58172 64 0 60.4183 0 56V8Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

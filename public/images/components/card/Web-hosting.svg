@@ -1,0 +1,35 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_16_1505)">
+<g opacity="0.25" filter="url(#filter0_f_16_1505)">
+<circle cx="32" cy="32" r="12" fill="#374BFF"/>
+</g>
+<g clip-path="url(#clip1_16_1505)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32 22.25C27.4446 22.25 23.7632 25.9413 23.5589 30.5311C21.6144 31.2944 20.25 33.225 20.25 35.4667C20.25 38.3633 22.5348 40.75 25.4 40.75L37.5 40.75C40.9727 40.75 43.75 37.8559 43.75 34.3333C43.75 31.7563 42.268 29.5228 40.1145 28.5035C39.095 24.9034 35.8601 22.25 32 22.25Z" fill="url(#paint0_radial_16_1505)"/>
+</g>
+<g opacity="0.3" filter="url(#filter1_f_16_1505)">
+<ellipse cx="32" cy="66" rx="16" ry="8" fill="#374BFF"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_16_1505" x="-4" y="-4" width="72" height="72" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="12" result="effect1_foregroundBlur_16_1505"/>
+</filter>
+<filter id="filter1_f_16_1505" x="0" y="42" width="64" height="48" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="8" result="effect1_foregroundBlur_16_1505"/>
+</filter>
+<radialGradient id="paint0_radial_16_1505" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(32 22.25) rotate(90) scale(18.5 23.5)">
+<stop stop-color="#374BFF"/>
+<stop offset="1" stop-color="#2B3AC6"/>
+</radialGradient>
+<clipPath id="clip0_16_1505">
+<path d="M0 8C0 3.58172 3.58172 0 8 0H56C60.4183 0 64 3.58172 64 8V56C64 60.4183 60.4183 64 56 64H8C3.58172 64 0 60.4183 0 56V8Z" fill="white"/>
+</clipPath>
+<clipPath id="clip1_16_1505">
+<rect width="24" height="24" fill="white" transform="translate(20 20)"/>
+</clipPath>
+</defs>
+</svg>
